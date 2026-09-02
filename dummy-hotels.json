@@ -1,0 +1,2162 @@
+[
+  {
+    "name": "Grand Luminary Resort",
+    "city": "Paris",
+    "price": 396,
+    "description": "A luxurious retreat featuring spacious suites, a panoramic rooftop lounge, and award-winning dining.",
+    "amenities": [
+      "Wifi",
+      "Spa",
+      "Pool",
+      "Restaurant",
+      "Gym",
+      "Bar",
+      "Room Service"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=800&q=80"
+    ],
+    "rating": 3.6,
+    "coordinates": {
+      "lat": 48.8566,
+      "lng": 2.3522
+    },
+    "reviews": [
+      {
+        "reviewerName": "Alex M.",
+        "rating": 4,
+        "comment": "The spa was amazing, very relaxing.",
+        "date": "2026-05-12"
+      },
+      {
+        "reviewerName": "Sophia R.",
+        "rating": 5,
+        "comment": "Absolutely loved this place! Service was exceptional.",
+        "date": "2026-06-27"
+      },
+      {
+        "reviewerName": "Michael K.",
+        "rating": 3,
+        "comment": "Nice stay. A little noisy during the day.",
+        "date": "2026-06-24"
+      },
+      {
+        "reviewerName": "Emma D.",
+        "rating": 2,
+        "comment": "Disappointing. Room did not look like the photos.",
+        "date": "2026-05-24"
+      },
+      {
+        "reviewerName": "Liam J.",
+        "rating": 5,
+        "comment": "Absolutely loved this place! Service was exceptional.",
+        "date": "2026-01-02"
+      },
+      {
+        "reviewerName": "Olivia W.",
+        "rating": 3,
+        "comment": "Location is great, though decor is slightly outdated.",
+        "date": "2026-01-22"
+      },
+      {
+        "reviewerName": "Noah B.",
+        "rating": 4,
+        "comment": "Rooftop views were spectacular. Great cocktails.",
+        "date": "2025-12-31"
+      },
+      {
+        "reviewerName": "Ava H.",
+        "rating": 3,
+        "comment": "Overall okay. Breakfast could have been better.",
+        "date": "2026-02-21"
+      },
+      {
+        "reviewerName": "William T.",
+        "rating": 3,
+        "comment": "Nice pool but it got crowded in the afternoon.",
+        "date": "2026-05-07"
+      },
+      {
+        "reviewerName": "Isabella S.",
+        "rating": 1,
+        "comment": "The air conditioning was broken and took hours to fix.",
+        "date": "2026-03-11"
+      },
+      {
+        "reviewerName": "James L.",
+        "rating": 4,
+        "comment": "Excellent value for money. Staff went above and beyond.",
+        "date": "2026-05-04"
+      },
+      {
+        "reviewerName": "Mia C.",
+        "rating": 3,
+        "comment": "Overall okay. Breakfast could have been better.",
+        "date": "2026-03-09"
+      },
+      {
+        "reviewerName": "Benjamin P.",
+        "rating": 3,
+        "comment": "Standard amenities. Nothing outstanding but decent.",
+        "date": "2026-05-27"
+      },
+      {
+        "reviewerName": "Charlotte N.",
+        "rating": 5,
+        "comment": "A wonderful experience from start to finish.",
+        "date": "2026-03-16"
+      },
+      {
+        "reviewerName": "Lucas G.",
+        "rating": 4,
+        "comment": "The spa was amazing, very relaxing.",
+        "date": "2026-02-24"
+      },
+      {
+        "reviewerName": "Amelia E.",
+        "rating": 5,
+        "comment": "Highly recommend! The food was delicious and location was perfect.",
+        "date": "2026-02-16"
+      },
+      {
+        "reviewerName": "Henry F.",
+        "rating": 4,
+        "comment": "Absolutely loved this place! Service was exceptional.",
+        "date": "2026-01-17"
+      },
+      {
+        "reviewerName": "Harper M.",
+        "rating": 5,
+        "comment": "Super comfortable bed. Slept like a baby.",
+        "date": "2026-02-20"
+      },
+      {
+        "reviewerName": "Alexander V.",
+        "rating": 3,
+        "comment": "Decent hotel. Good location near public transport.",
+        "date": "2026-03-02"
+      },
+      {
+        "reviewerName": "Evelyn Z.",
+        "rating": 3,
+        "comment": "Service was a bit slow during check-out.",
+        "date": "2026-02-28"
+      }
+    ]
+  },
+  {
+    "name": "The Ritz Horizon",
+    "city": "New York",
+    "price": 473,
+    "description": "Stunning skyline views, premium wellness amenities, and proximity to major cultural highlights.",
+    "amenities": [
+      "Wifi",
+      "Gym",
+      "Business Center",
+      "Airport Shuttle",
+      "Bar"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?auto=format&fit=crop&w=800&q=80"
+    ],
+    "rating": 3.4,
+    "coordinates": {
+      "lat": 40.7128,
+      "lng": -74.006
+    },
+    "reviews": [
+      {
+        "reviewerName": "Alex M.",
+        "rating": 3,
+        "comment": "Nice pool but it got crowded in the afternoon.",
+        "date": "2026-01-07"
+      },
+      {
+        "reviewerName": "Sophia R.",
+        "rating": 3,
+        "comment": "Good hotel, but the room was a bit small.",
+        "date": "2026-04-04"
+      },
+      {
+        "reviewerName": "Michael K.",
+        "rating": 3,
+        "comment": "Location is great, though decor is slightly outdated.",
+        "date": "2026-03-22"
+      },
+      {
+        "reviewerName": "Emma D.",
+        "rating": 5,
+        "comment": "A wonderful experience from start to finish.",
+        "date": "2026-01-04"
+      },
+      {
+        "reviewerName": "Liam J.",
+        "rating": 3,
+        "comment": "Standard amenities. Nothing outstanding but decent.",
+        "date": "2026-06-26"
+      },
+      {
+        "reviewerName": "Olivia W.",
+        "rating": 3,
+        "comment": "Nice pool but it got crowded in the afternoon.",
+        "date": "2026-05-07"
+      },
+      {
+        "reviewerName": "Noah B.",
+        "rating": 5,
+        "comment": "Super comfortable bed. Slept like a baby.",
+        "date": "2026-06-21"
+      },
+      {
+        "reviewerName": "Ava H.",
+        "rating": 1,
+        "comment": "Very slow check-in. Had to wait for 45 minutes.",
+        "date": "2026-06-25"
+      },
+      {
+        "reviewerName": "William T.",
+        "rating": 3,
+        "comment": "Nice stay. A little noisy during the day.",
+        "date": "2026-01-16"
+      },
+      {
+        "reviewerName": "Isabella S.",
+        "rating": 1,
+        "comment": "Not satisfied with the service. Won't visit again.",
+        "date": "2026-02-26"
+      },
+      {
+        "reviewerName": "James L.",
+        "rating": 3,
+        "comment": "Overall okay. Breakfast could have been better.",
+        "date": "2026-01-24"
+      },
+      {
+        "reviewerName": "Mia C.",
+        "rating": 4,
+        "comment": "Absolutely loved this place! Service was exceptional.",
+        "date": "2026-04-19"
+      },
+      {
+        "reviewerName": "Benjamin P.",
+        "rating": 4,
+        "comment": "Highly recommend! The food was delicious and location was perfect.",
+        "date": "2026-05-19"
+      },
+      {
+        "reviewerName": "Charlotte N.",
+        "rating": 3,
+        "comment": "Nice stay. A little noisy during the day.",
+        "date": "2026-04-20"
+      },
+      {
+        "reviewerName": "Lucas G.",
+        "rating": 5,
+        "comment": "A wonderful experience from start to finish.",
+        "date": "2026-02-16"
+      },
+      {
+        "reviewerName": "Amelia E.",
+        "rating": 4,
+        "comment": "A wonderful experience from start to finish.",
+        "date": "2026-05-12"
+      },
+      {
+        "reviewerName": "Henry F.",
+        "rating": 5,
+        "comment": "The spa was amazing, very relaxing.",
+        "date": "2026-03-26"
+      },
+      {
+        "reviewerName": "Harper M.",
+        "rating": 3,
+        "comment": "Decent hotel. Good location near public transport.",
+        "date": "2026-01-14"
+      },
+      {
+        "reviewerName": "Alexander V.",
+        "rating": 3,
+        "comment": "Decent hotel. Good location near public transport.",
+        "date": "2026-05-26"
+      },
+      {
+        "reviewerName": "Evelyn Z.",
+        "rating": 3,
+        "comment": "Decent hotel. Good location near public transport.",
+        "date": "2026-06-22"
+      }
+    ]
+  },
+  {
+    "name": "Royal Vista Suites",
+    "city": "London",
+    "price": 227,
+    "description": "Classic historic charm meets state-of-the-art modern comforts and personalized butler services.",
+    "amenities": [
+      "Wifi",
+      "Butler Service",
+      "Rooftop Bar",
+      "Restaurant",
+      "Valet Parking"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?auto=format&fit=crop&w=800&q=80"
+    ],
+    "rating": 3.7,
+    "coordinates": {
+      "lat": 51.5074,
+      "lng": -0.1278
+    },
+    "reviews": [
+      {
+        "reviewerName": "Alex M.",
+        "rating": 2,
+        "comment": "The air conditioning was broken and took hours to fix.",
+        "date": "2026-05-02"
+      },
+      {
+        "reviewerName": "Sophia R.",
+        "rating": 3,
+        "comment": "Location is great, though decor is slightly outdated.",
+        "date": "2026-04-27"
+      },
+      {
+        "reviewerName": "Michael K.",
+        "rating": 2,
+        "comment": "The bathroom was not cleaned properly.",
+        "date": "2026-04-09"
+      },
+      {
+        "reviewerName": "Emma D.",
+        "rating": 5,
+        "comment": "Absolutely loved this place! Service was exceptional.",
+        "date": "2026-04-10"
+      },
+      {
+        "reviewerName": "Liam J.",
+        "rating": 3,
+        "comment": "Nice stay. A little noisy during the day.",
+        "date": "2026-01-03"
+      },
+      {
+        "reviewerName": "Olivia W.",
+        "rating": 2,
+        "comment": "Not satisfied with the service. Won't visit again.",
+        "date": "2026-02-04"
+      },
+      {
+        "reviewerName": "Noah B.",
+        "rating": 3,
+        "comment": "Overall okay. Breakfast could have been better.",
+        "date": "2026-05-20"
+      },
+      {
+        "reviewerName": "Ava H.",
+        "rating": 4,
+        "comment": "Highly recommend! The food was delicious and location was perfect.",
+        "date": "2026-05-24"
+      },
+      {
+        "reviewerName": "William T.",
+        "rating": 4,
+        "comment": "Stunning views and extremely clean rooms. Will come back.",
+        "date": "2026-04-22"
+      },
+      {
+        "reviewerName": "Isabella S.",
+        "rating": 3,
+        "comment": "Overall okay. Breakfast could have been better.",
+        "date": "2026-01-03"
+      },
+      {
+        "reviewerName": "James L.",
+        "rating": 5,
+        "comment": "A wonderful experience from start to finish.",
+        "date": "2026-02-07"
+      },
+      {
+        "reviewerName": "Mia C.",
+        "rating": 5,
+        "comment": "Rooftop views were spectacular. Great cocktails.",
+        "date": "2026-04-18"
+      },
+      {
+        "reviewerName": "Benjamin P.",
+        "rating": 5,
+        "comment": "A wonderful experience from start to finish.",
+        "date": "2026-03-21"
+      },
+      {
+        "reviewerName": "Charlotte N.",
+        "rating": 3,
+        "comment": "Location is great, though decor is slightly outdated.",
+        "date": "2026-01-01"
+      },
+      {
+        "reviewerName": "Lucas G.",
+        "rating": 4,
+        "comment": "Highly recommend! The food was delicious and location was perfect.",
+        "date": "2026-04-11"
+      },
+      {
+        "reviewerName": "Amelia E.",
+        "rating": 4,
+        "comment": "A wonderful experience from start to finish.",
+        "date": "2026-03-18"
+      },
+      {
+        "reviewerName": "Henry F.",
+        "rating": 5,
+        "comment": "Friendly reception staff and quick check-in process.",
+        "date": "2026-05-15"
+      },
+      {
+        "reviewerName": "Harper M.",
+        "rating": 5,
+        "comment": "Highly recommend! The food was delicious and location was perfect.",
+        "date": "2026-01-23"
+      },
+      {
+        "reviewerName": "Alexander V.",
+        "rating": 4,
+        "comment": "Friendly reception staff and quick check-in process.",
+        "date": "2026-02-10"
+      },
+      {
+        "reviewerName": "Evelyn Z.",
+        "rating": 3,
+        "comment": "Clean room but the wifi was somewhat slow.",
+        "date": "2026-04-02"
+      }
+    ]
+  },
+  {
+    "name": "Boutique Sanctuary Hotel",
+    "city": "Tokyo",
+    "price": 288,
+    "description": "Cozy, curated rooms nestled in a quiet street, perfect for relaxing escapes and local food tours.",
+    "amenities": [
+      "Wifi",
+      "Breakfast",
+      "Bicycle Rental",
+      "Library",
+      "Coffee Maker"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=800&q=80"
+    ],
+    "rating": 3.8,
+    "coordinates": {
+      "lat": 35.6762,
+      "lng": 139.6503
+    },
+    "reviews": [
+      {
+        "reviewerName": "Alex M.",
+        "rating": 3,
+        "comment": "Overall okay. Breakfast could have been better.",
+        "date": "2026-03-16"
+      },
+      {
+        "reviewerName": "Sophia R.",
+        "rating": 3,
+        "comment": "Location is great, though decor is slightly outdated.",
+        "date": "2026-04-30"
+      },
+      {
+        "reviewerName": "Michael K.",
+        "rating": 5,
+        "comment": "Rooftop views were spectacular. Great cocktails.",
+        "date": "2026-02-06"
+      },
+      {
+        "reviewerName": "Emma D.",
+        "rating": 3,
+        "comment": "Service was a bit slow during check-out.",
+        "date": "2026-02-01"
+      },
+      {
+        "reviewerName": "Liam J.",
+        "rating": 5,
+        "comment": "Highly recommend! The food was delicious and location was perfect.",
+        "date": "2026-05-19"
+      },
+      {
+        "reviewerName": "Olivia W.",
+        "rating": 3,
+        "comment": "Decent hotel. Good location near public transport.",
+        "date": "2026-04-12"
+      },
+      {
+        "reviewerName": "Noah B.",
+        "rating": 1,
+        "comment": "The air conditioning was broken and took hours to fix.",
+        "date": "2026-02-04"
+      },
+      {
+        "reviewerName": "Ava H.",
+        "rating": 4,
+        "comment": "Rooftop views were spectacular. Great cocktails.",
+        "date": "2026-02-05"
+      },
+      {
+        "reviewerName": "William T.",
+        "rating": 4,
+        "comment": "Excellent value for money. Staff went above and beyond.",
+        "date": "2026-03-20"
+      },
+      {
+        "reviewerName": "Isabella S.",
+        "rating": 4,
+        "comment": "Rooftop views were spectacular. Great cocktails.",
+        "date": "2026-01-12"
+      },
+      {
+        "reviewerName": "James L.",
+        "rating": 4,
+        "comment": "Stunning views and extremely clean rooms. Will come back.",
+        "date": "2026-03-13"
+      },
+      {
+        "reviewerName": "Mia C.",
+        "rating": 3,
+        "comment": "Good hotel, but the room was a bit small.",
+        "date": "2026-05-19"
+      },
+      {
+        "reviewerName": "Benjamin P.",
+        "rating": 3,
+        "comment": "Location is great, though decor is slightly outdated.",
+        "date": "2026-06-21"
+      },
+      {
+        "reviewerName": "Charlotte N.",
+        "rating": 5,
+        "comment": "Absolutely loved this place! Service was exceptional.",
+        "date": "2026-01-17"
+      },
+      {
+        "reviewerName": "Lucas G.",
+        "rating": 4,
+        "comment": "Stunning views and extremely clean rooms. Will come back.",
+        "date": "2026-04-12"
+      },
+      {
+        "reviewerName": "Amelia E.",
+        "rating": 3,
+        "comment": "Fine for a short stay. Standard service.",
+        "date": "2026-04-05"
+      },
+      {
+        "reviewerName": "Henry F.",
+        "rating": 5,
+        "comment": "Friendly reception staff and quick check-in process.",
+        "date": "2026-06-18"
+      },
+      {
+        "reviewerName": "Harper M.",
+        "rating": 5,
+        "comment": "Absolutely loved this place! Service was exceptional.",
+        "date": "2026-02-02"
+      },
+      {
+        "reviewerName": "Alexander V.",
+        "rating": 5,
+        "comment": "Highly recommend! The food was delicious and location was perfect.",
+        "date": "2026-02-23"
+      },
+      {
+        "reviewerName": "Evelyn Z.",
+        "rating": 3,
+        "comment": "Decent hotel. Good location near public transport.",
+        "date": "2026-03-17"
+      }
+    ]
+  },
+  {
+    "name": "Palazzo Heritage Suites",
+    "city": "Rome",
+    "price": 147,
+    "description": "Housed in a restored historic monument, boasting high ceilings, fresco walls, and organic breakfast.",
+    "amenities": [
+      "Wifi",
+      "Historical Tours",
+      "Garden Courtyard",
+      "Restaurant"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80"
+    ],
+    "rating": 3.8,
+    "coordinates": {
+      "lat": 41.9028,
+      "lng": 12.4964
+    },
+    "reviews": [
+      {
+        "reviewerName": "Alex M.",
+        "rating": 5,
+        "comment": "Rooftop views were spectacular. Great cocktails.",
+        "date": "2026-03-11"
+      },
+      {
+        "reviewerName": "Sophia R.",
+        "rating": 5,
+        "comment": "Friendly reception staff and quick check-in process.",
+        "date": "2026-04-26"
+      },
+      {
+        "reviewerName": "Michael K.",
+        "rating": 3,
+        "comment": "Fine for a short stay. Standard service.",
+        "date": "2026-05-06"
+      },
+      {
+        "reviewerName": "Emma D.",
+        "rating": 4,
+        "comment": "Rooftop views were spectacular. Great cocktails.",
+        "date": "2026-02-25"
+      },
+      {
+        "reviewerName": "Liam J.",
+        "rating": 4,
+        "comment": "Excellent value for money. Staff went above and beyond.",
+        "date": "2026-06-21"
+      },
+      {
+        "reviewerName": "Olivia W.",
+        "rating": 2,
+        "comment": "The bathroom was not cleaned properly.",
+        "date": "2026-06-23"
+      },
+      {
+        "reviewerName": "Noah B.",
+        "rating": 5,
+        "comment": "Excellent value for money. Staff went above and beyond.",
+        "date": "2026-06-24"
+      },
+      {
+        "reviewerName": "Ava H.",
+        "rating": 3,
+        "comment": "Overall okay. Breakfast could have been better.",
+        "date": "2026-02-15"
+      },
+      {
+        "reviewerName": "William T.",
+        "rating": 5,
+        "comment": "Highly recommend! The food was delicious and location was perfect.",
+        "date": "2026-05-09"
+      },
+      {
+        "reviewerName": "Isabella S.",
+        "rating": 4,
+        "comment": "Absolutely loved this place! Service was exceptional.",
+        "date": "2026-01-12"
+      },
+      {
+        "reviewerName": "James L.",
+        "rating": 4,
+        "comment": "Excellent value for money. Staff went above and beyond.",
+        "date": "2026-06-08"
+      },
+      {
+        "reviewerName": "Mia C.",
+        "rating": 5,
+        "comment": "The spa was amazing, very relaxing.",
+        "date": "2026-05-15"
+      },
+      {
+        "reviewerName": "Benjamin P.",
+        "rating": 1,
+        "comment": "Noise from the street made it hard to sleep.",
+        "date": "2026-04-06"
+      },
+      {
+        "reviewerName": "Charlotte N.",
+        "rating": 2,
+        "comment": "The bathroom was not cleaned properly.",
+        "date": "2026-03-07"
+      },
+      {
+        "reviewerName": "Lucas G.",
+        "rating": 4,
+        "comment": "Stunning views and extremely clean rooms. Will come back.",
+        "date": "2026-03-20"
+      },
+      {
+        "reviewerName": "Amelia E.",
+        "rating": 5,
+        "comment": "Absolutely loved this place! Service was exceptional.",
+        "date": "2026-05-11"
+      },
+      {
+        "reviewerName": "Henry F.",
+        "rating": 3,
+        "comment": "Nice pool but it got crowded in the afternoon.",
+        "date": "2025-12-31"
+      },
+      {
+        "reviewerName": "Harper M.",
+        "rating": 3,
+        "comment": "Standard amenities. Nothing outstanding but decent.",
+        "date": "2026-06-24"
+      },
+      {
+        "reviewerName": "Alexander V.",
+        "rating": 5,
+        "comment": "Stunning views and extremely clean rooms. Will come back.",
+        "date": "2026-04-01"
+      },
+      {
+        "reviewerName": "Evelyn Z.",
+        "rating": 4,
+        "comment": "Beautiful hotel with great attention to detail.",
+        "date": "2026-05-14"
+      }
+    ]
+  },
+  {
+    "name": "Harbor View Lodge",
+    "city": "Sydney",
+    "price": 186,
+    "description": "Elegant rooms directly overlooking the harbor. Features private balconies and yacht tour setups.",
+    "amenities": [
+      "Wifi",
+      "Balcony",
+      "Marina Access",
+      "Seafood Buffet",
+      "Pool"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=800&q=80"
+    ],
+    "rating": 4.1,
+    "coordinates": {
+      "lat": -33.8688,
+      "lng": 151.2093
+    },
+    "reviews": [
+      {
+        "reviewerName": "Alex M.",
+        "rating": 5,
+        "comment": "Rooftop views were spectacular. Great cocktails.",
+        "date": "2026-01-08"
+      },
+      {
+        "reviewerName": "Sophia R.",
+        "rating": 5,
+        "comment": "Highly recommend! The food was delicious and location was perfect.",
+        "date": "2026-06-08"
+      },
+      {
+        "reviewerName": "Michael K.",
+        "rating": 4,
+        "comment": "Rooftop views were spectacular. Great cocktails.",
+        "date": "2026-03-04"
+      },
+      {
+        "reviewerName": "Emma D.",
+        "rating": 3,
+        "comment": "Standard amenities. Nothing outstanding but decent.",
+        "date": "2026-05-27"
+      },
+      {
+        "reviewerName": "Liam J.",
+        "rating": 3,
+        "comment": "Decent hotel. Good location near public transport.",
+        "date": "2026-02-26"
+      },
+      {
+        "reviewerName": "Olivia W.",
+        "rating": 5,
+        "comment": "Rooftop views were spectacular. Great cocktails.",
+        "date": "2026-03-01"
+      },
+      {
+        "reviewerName": "Noah B.",
+        "rating": 5,
+        "comment": "Excellent value for money. Staff went above and beyond.",
+        "date": "2026-02-18"
+      },
+      {
+        "reviewerName": "Ava H.",
+        "rating": 4,
+        "comment": "The spa was amazing, very relaxing.",
+        "date": "2026-02-04"
+      },
+      {
+        "reviewerName": "William T.",
+        "rating": 3,
+        "comment": "Nice stay. A little noisy during the day.",
+        "date": "2026-03-14"
+      },
+      {
+        "reviewerName": "Isabella S.",
+        "rating": 3,
+        "comment": "Location is great, though decor is slightly outdated.",
+        "date": "2026-05-09"
+      },
+      {
+        "reviewerName": "James L.",
+        "rating": 3,
+        "comment": "Decent hotel. Good location near public transport.",
+        "date": "2026-03-25"
+      },
+      {
+        "reviewerName": "Mia C.",
+        "rating": 3,
+        "comment": "Decent hotel. Good location near public transport.",
+        "date": "2026-02-22"
+      },
+      {
+        "reviewerName": "Benjamin P.",
+        "rating": 5,
+        "comment": "Highly recommend! The food was delicious and location was perfect.",
+        "date": "2025-12-31"
+      },
+      {
+        "reviewerName": "Charlotte N.",
+        "rating": 5,
+        "comment": "Rooftop views were spectacular. Great cocktails.",
+        "date": "2026-04-24"
+      },
+      {
+        "reviewerName": "Lucas G.",
+        "rating": 4,
+        "comment": "Super comfortable bed. Slept like a baby.",
+        "date": "2026-06-25"
+      },
+      {
+        "reviewerName": "Amelia E.",
+        "rating": 5,
+        "comment": "Super comfortable bed. Slept like a baby.",
+        "date": "2026-03-16"
+      },
+      {
+        "reviewerName": "Henry F.",
+        "rating": 4,
+        "comment": "Super comfortable bed. Slept like a baby.",
+        "date": "2026-01-21"
+      },
+      {
+        "reviewerName": "Harper M.",
+        "rating": 4,
+        "comment": "The spa was amazing, very relaxing.",
+        "date": "2026-02-06"
+      },
+      {
+        "reviewerName": "Alexander V.",
+        "rating": 4,
+        "comment": "Friendly reception staff and quick check-in process.",
+        "date": "2025-12-31"
+      },
+      {
+        "reviewerName": "Evelyn Z.",
+        "rating": 5,
+        "comment": "Excellent value for money. Staff went above and beyond.",
+        "date": "2026-03-12"
+      }
+    ]
+  },
+  {
+    "name": "Table Mountain Inn",
+    "city": "Cape Town",
+    "price": 468,
+    "description": "Stunning mountainous backdrop, cozy wood fireplace lounges, and proximity to nature trails.",
+    "amenities": [
+      "Wifi",
+      "Fireplace",
+      "Hiking Trails",
+      "Kitchenette",
+      "Pet Friendly"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?auto=format&fit=crop&w=800&q=80"
+    ],
+    "rating": 3.9,
+    "coordinates": {
+      "lat": -33.9249,
+      "lng": 18.4241
+    },
+    "reviews": [
+      {
+        "reviewerName": "Alex M.",
+        "rating": 4,
+        "comment": "Absolutely loved this place! Service was exceptional.",
+        "date": "2026-01-06"
+      },
+      {
+        "reviewerName": "Sophia R.",
+        "rating": 5,
+        "comment": "Beautiful hotel with great attention to detail.",
+        "date": "2026-02-05"
+      },
+      {
+        "reviewerName": "Michael K.",
+        "rating": 4,
+        "comment": "Friendly reception staff and quick check-in process.",
+        "date": "2026-01-18"
+      },
+      {
+        "reviewerName": "Emma D.",
+        "rating": 5,
+        "comment": "Excellent value for money. Staff went above and beyond.",
+        "date": "2026-01-18"
+      },
+      {
+        "reviewerName": "Liam J.",
+        "rating": 1,
+        "comment": "Very slow check-in. Had to wait for 45 minutes.",
+        "date": "2026-01-07"
+      },
+      {
+        "reviewerName": "Olivia W.",
+        "rating": 3,
+        "comment": "Service was a bit slow during check-out.",
+        "date": "2026-03-19"
+      },
+      {
+        "reviewerName": "Noah B.",
+        "rating": 5,
+        "comment": "Excellent value for money. Staff went above and beyond.",
+        "date": "2026-04-26"
+      },
+      {
+        "reviewerName": "Ava H.",
+        "rating": 3,
+        "comment": "Decent hotel. Good location near public transport.",
+        "date": "2026-03-18"
+      },
+      {
+        "reviewerName": "William T.",
+        "rating": 4,
+        "comment": "Friendly reception staff and quick check-in process.",
+        "date": "2026-03-18"
+      },
+      {
+        "reviewerName": "Isabella S.",
+        "rating": 5,
+        "comment": "Beautiful hotel with great attention to detail.",
+        "date": "2026-01-31"
+      },
+      {
+        "reviewerName": "James L.",
+        "rating": 5,
+        "comment": "A wonderful experience from start to finish.",
+        "date": "2026-06-23"
+      },
+      {
+        "reviewerName": "Mia C.",
+        "rating": 3,
+        "comment": "Decent hotel. Good location near public transport.",
+        "date": "2026-06-20"
+      },
+      {
+        "reviewerName": "Benjamin P.",
+        "rating": 4,
+        "comment": "Stunning views and extremely clean rooms. Will come back.",
+        "date": "2026-06-16"
+      },
+      {
+        "reviewerName": "Charlotte N.",
+        "rating": 3,
+        "comment": "Fine for a short stay. Standard service.",
+        "date": "2026-04-02"
+      },
+      {
+        "reviewerName": "Lucas G.",
+        "rating": 4,
+        "comment": "Highly recommend! The food was delicious and location was perfect.",
+        "date": "2026-05-18"
+      },
+      {
+        "reviewerName": "Amelia E.",
+        "rating": 3,
+        "comment": "Service was a bit slow during check-out.",
+        "date": "2026-04-10"
+      },
+      {
+        "reviewerName": "Henry F.",
+        "rating": 5,
+        "comment": "The spa was amazing, very relaxing.",
+        "date": "2026-03-26"
+      },
+      {
+        "reviewerName": "Harper M.",
+        "rating": 4,
+        "comment": "Highly recommend! The food was delicious and location was perfect.",
+        "date": "2026-01-09"
+      },
+      {
+        "reviewerName": "Alexander V.",
+        "rating": 2,
+        "comment": "Very slow check-in. Had to wait for 45 minutes.",
+        "date": "2026-05-26"
+      },
+      {
+        "reviewerName": "Evelyn Z.",
+        "rating": 5,
+        "comment": "A wonderful experience from start to finish.",
+        "date": "2026-05-20"
+      }
+    ]
+  },
+  {
+    "name": "Oasis Sands Palace",
+    "city": "Dubai",
+    "price": 374,
+    "description": "An opulent desert palace with infinity pools, full-service spa baths, and gold-leaf details.",
+    "amenities": [
+      "Wifi",
+      "Infinity Pool",
+      "Turkish Bath",
+      "Spa",
+      "Helipad"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?auto=format&fit=crop&w=800&q=80"
+    ],
+    "rating": 3.5,
+    "coordinates": {
+      "lat": 25.2048,
+      "lng": 55.2708
+    },
+    "reviews": [
+      {
+        "reviewerName": "Alex M.",
+        "rating": 3,
+        "comment": "Service was a bit slow during check-out.",
+        "date": "2026-02-15"
+      },
+      {
+        "reviewerName": "Sophia R.",
+        "rating": 3,
+        "comment": "Decent hotel. Good location near public transport.",
+        "date": "2026-02-04"
+      },
+      {
+        "reviewerName": "Michael K.",
+        "rating": 4,
+        "comment": "A wonderful experience from start to finish.",
+        "date": "2026-03-12"
+      },
+      {
+        "reviewerName": "Emma D.",
+        "rating": 2,
+        "comment": "Disappointing. Room did not look like the photos.",
+        "date": "2026-01-20"
+      },
+      {
+        "reviewerName": "Liam J.",
+        "rating": 3,
+        "comment": "Standard amenities. Nothing outstanding but decent.",
+        "date": "2026-02-22"
+      },
+      {
+        "reviewerName": "Olivia W.",
+        "rating": 3,
+        "comment": "Good hotel, but the room was a bit small.",
+        "date": "2026-06-27"
+      },
+      {
+        "reviewerName": "Noah B.",
+        "rating": 3,
+        "comment": "Service was a bit slow during check-out.",
+        "date": "2026-04-15"
+      },
+      {
+        "reviewerName": "Ava H.",
+        "rating": 3,
+        "comment": "Nice stay. A little noisy during the day.",
+        "date": "2026-02-20"
+      },
+      {
+        "reviewerName": "William T.",
+        "rating": 3,
+        "comment": "Location is great, though decor is slightly outdated.",
+        "date": "2026-03-09"
+      },
+      {
+        "reviewerName": "Isabella S.",
+        "rating": 3,
+        "comment": "Good hotel, but the room was a bit small.",
+        "date": "2026-05-27"
+      },
+      {
+        "reviewerName": "James L.",
+        "rating": 3,
+        "comment": "Clean room but the wifi was somewhat slow.",
+        "date": "2026-06-11"
+      },
+      {
+        "reviewerName": "Mia C.",
+        "rating": 5,
+        "comment": "Beautiful hotel with great attention to detail.",
+        "date": "2026-02-16"
+      },
+      {
+        "reviewerName": "Benjamin P.",
+        "rating": 5,
+        "comment": "A wonderful experience from start to finish.",
+        "date": "2026-04-12"
+      },
+      {
+        "reviewerName": "Charlotte N.",
+        "rating": 5,
+        "comment": "Highly recommend! The food was delicious and location was perfect.",
+        "date": "2026-05-04"
+      },
+      {
+        "reviewerName": "Lucas G.",
+        "rating": 5,
+        "comment": "Beautiful hotel with great attention to detail.",
+        "date": "2026-02-14"
+      },
+      {
+        "reviewerName": "Amelia E.",
+        "rating": 2,
+        "comment": "Noise from the street made it hard to sleep.",
+        "date": "2026-02-09"
+      },
+      {
+        "reviewerName": "Henry F.",
+        "rating": 5,
+        "comment": "Super comfortable bed. Slept like a baby.",
+        "date": "2026-01-09"
+      },
+      {
+        "reviewerName": "Harper M.",
+        "rating": 3,
+        "comment": "Location is great, though decor is slightly outdated.",
+        "date": "2026-02-24"
+      },
+      {
+        "reviewerName": "Alexander V.",
+        "rating": 4,
+        "comment": "Beautiful hotel with great attention to detail.",
+        "date": "2026-05-18"
+      },
+      {
+        "reviewerName": "Evelyn Z.",
+        "rating": 4,
+        "comment": "A wonderful experience from start to finish.",
+        "date": "2026-03-03"
+      }
+    ]
+  },
+  {
+    "name": "Zen Forest Retreat",
+    "city": "Bali",
+    "price": 455,
+    "description": "Serene setting with private bamboo gardens, hot baths, and complimentary morning yoga sessions.",
+    "amenities": [
+      "Wifi",
+      "Hot Springs",
+      "Garden",
+      "Yoga Deck",
+      "Tea Bar"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=800&q=80"
+    ],
+    "rating": 3.9,
+    "coordinates": {
+      "lat": -8.4095,
+      "lng": 115.1889
+    },
+    "reviews": [
+      {
+        "reviewerName": "Alex M.",
+        "rating": 3,
+        "comment": "Fine for a short stay. Standard service.",
+        "date": "2026-05-24"
+      },
+      {
+        "reviewerName": "Sophia R.",
+        "rating": 4,
+        "comment": "Rooftop views were spectacular. Great cocktails.",
+        "date": "2026-03-09"
+      },
+      {
+        "reviewerName": "Michael K.",
+        "rating": 3,
+        "comment": "Location is great, though decor is slightly outdated.",
+        "date": "2026-05-08"
+      },
+      {
+        "reviewerName": "Emma D.",
+        "rating": 5,
+        "comment": "Beautiful hotel with great attention to detail.",
+        "date": "2026-04-20"
+      },
+      {
+        "reviewerName": "Liam J.",
+        "rating": 4,
+        "comment": "Beautiful hotel with great attention to detail.",
+        "date": "2026-02-21"
+      },
+      {
+        "reviewerName": "Olivia W.",
+        "rating": 5,
+        "comment": "Stunning views and extremely clean rooms. Will come back.",
+        "date": "2026-05-25"
+      },
+      {
+        "reviewerName": "Noah B.",
+        "rating": 3,
+        "comment": "Location is great, though decor is slightly outdated.",
+        "date": "2026-06-08"
+      },
+      {
+        "reviewerName": "Ava H.",
+        "rating": 5,
+        "comment": "Highly recommend! The food was delicious and location was perfect.",
+        "date": "2026-02-21"
+      },
+      {
+        "reviewerName": "William T.",
+        "rating": 3,
+        "comment": "Standard amenities. Nothing outstanding but decent.",
+        "date": "2026-05-09"
+      },
+      {
+        "reviewerName": "Isabella S.",
+        "rating": 5,
+        "comment": "Beautiful hotel with great attention to detail.",
+        "date": "2026-05-09"
+      },
+      {
+        "reviewerName": "James L.",
+        "rating": 3,
+        "comment": "Service was a bit slow during check-out.",
+        "date": "2026-05-25"
+      },
+      {
+        "reviewerName": "Mia C.",
+        "rating": 3,
+        "comment": "Good hotel, but the room was a bit small.",
+        "date": "2026-02-24"
+      },
+      {
+        "reviewerName": "Benjamin P.",
+        "rating": 4,
+        "comment": "The spa was amazing, very relaxing.",
+        "date": "2026-02-28"
+      },
+      {
+        "reviewerName": "Charlotte N.",
+        "rating": 3,
+        "comment": "Fine for a short stay. Standard service.",
+        "date": "2026-05-06"
+      },
+      {
+        "reviewerName": "Lucas G.",
+        "rating": 4,
+        "comment": "Highly recommend! The food was delicious and location was perfect.",
+        "date": "2026-06-16"
+      },
+      {
+        "reviewerName": "Amelia E.",
+        "rating": 4,
+        "comment": "Rooftop views were spectacular. Great cocktails.",
+        "date": "2026-05-11"
+      },
+      {
+        "reviewerName": "Henry F.",
+        "rating": 2,
+        "comment": "Overpriced for what it offers. Staff seemed indifferent.",
+        "date": "2026-03-01"
+      },
+      {
+        "reviewerName": "Harper M.",
+        "rating": 4,
+        "comment": "The spa was amazing, very relaxing.",
+        "date": "2026-02-26"
+      },
+      {
+        "reviewerName": "Alexander V.",
+        "rating": 5,
+        "comment": "Rooftop views were spectacular. Great cocktails.",
+        "date": "2026-01-18"
+      },
+      {
+        "reviewerName": "Evelyn Z.",
+        "rating": 5,
+        "comment": "The spa was amazing, very relaxing.",
+        "date": "2026-02-14"
+      }
+    ]
+  },
+  {
+    "name": "Gothic Quarter Inn",
+    "city": "Barcelona",
+    "price": 225,
+    "description": "Artfully designed rooms in the historic center, combining historic brick styling and high-speed amenities.",
+    "amenities": [
+      "Wifi",
+      "Air Conditioning",
+      "Rooftop Terrace",
+      "Bicycle Rental"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80"
+    ],
+    "rating": 3.6,
+    "coordinates": {
+      "lat": 41.3851,
+      "lng": 2.1734
+    },
+    "reviews": [
+      {
+        "reviewerName": "Alex M.",
+        "rating": 1,
+        "comment": "Very slow check-in. Had to wait for 45 minutes.",
+        "date": "2026-05-09"
+      },
+      {
+        "reviewerName": "Sophia R.",
+        "rating": 5,
+        "comment": "The spa was amazing, very relaxing.",
+        "date": "2026-05-21"
+      },
+      {
+        "reviewerName": "Michael K.",
+        "rating": 4,
+        "comment": "Excellent value for money. Staff went above and beyond.",
+        "date": "2026-06-26"
+      },
+      {
+        "reviewerName": "Emma D.",
+        "rating": 4,
+        "comment": "Stunning views and extremely clean rooms. Will come back.",
+        "date": "2026-03-13"
+      },
+      {
+        "reviewerName": "Liam J.",
+        "rating": 4,
+        "comment": "A wonderful experience from start to finish.",
+        "date": "2026-04-07"
+      },
+      {
+        "reviewerName": "Olivia W.",
+        "rating": 4,
+        "comment": "Stunning views and extremely clean rooms. Will come back.",
+        "date": "2026-01-10"
+      },
+      {
+        "reviewerName": "Noah B.",
+        "rating": 5,
+        "comment": "Excellent value for money. Staff went above and beyond.",
+        "date": "2026-04-02"
+      },
+      {
+        "reviewerName": "Ava H.",
+        "rating": 5,
+        "comment": "Rooftop views were spectacular. Great cocktails.",
+        "date": "2026-06-26"
+      },
+      {
+        "reviewerName": "William T.",
+        "rating": 3,
+        "comment": "Location is great, though decor is slightly outdated.",
+        "date": "2026-06-12"
+      },
+      {
+        "reviewerName": "Isabella S.",
+        "rating": 3,
+        "comment": "Clean room but the wifi was somewhat slow.",
+        "date": "2026-04-21"
+      },
+      {
+        "reviewerName": "James L.",
+        "rating": 4,
+        "comment": "A wonderful experience from start to finish.",
+        "date": "2026-06-15"
+      },
+      {
+        "reviewerName": "Mia C.",
+        "rating": 5,
+        "comment": "The spa was amazing, very relaxing.",
+        "date": "2026-04-22"
+      },
+      {
+        "reviewerName": "Benjamin P.",
+        "rating": 3,
+        "comment": "Decent hotel. Good location near public transport.",
+        "date": "2026-02-01"
+      },
+      {
+        "reviewerName": "Charlotte N.",
+        "rating": 3,
+        "comment": "Service was a bit slow during check-out.",
+        "date": "2026-03-22"
+      },
+      {
+        "reviewerName": "Lucas G.",
+        "rating": 3,
+        "comment": "Service was a bit slow during check-out.",
+        "date": "2026-01-09"
+      },
+      {
+        "reviewerName": "Amelia E.",
+        "rating": 4,
+        "comment": "Excellent value for money. Staff went above and beyond.",
+        "date": "2026-05-02"
+      },
+      {
+        "reviewerName": "Henry F.",
+        "rating": 2,
+        "comment": "Not satisfied with the service. Won't visit again.",
+        "date": "2026-01-09"
+      },
+      {
+        "reviewerName": "Harper M.",
+        "rating": 4,
+        "comment": "The spa was amazing, very relaxing.",
+        "date": "2026-02-23"
+      },
+      {
+        "reviewerName": "Alexander V.",
+        "rating": 3,
+        "comment": "Decent hotel. Good location near public transport.",
+        "date": "2026-06-06"
+      },
+      {
+        "reviewerName": "Evelyn Z.",
+        "rating": 3,
+        "comment": "Good hotel, but the room was a bit small.",
+        "date": "2026-04-09"
+      }
+    ]
+  },
+  {
+    "name": "Coastal Breeze Lodge",
+    "city": "Vancouver",
+    "price": 306,
+    "description": "Ocean-view balconies, indoor heated pools, and close proximity to historic bays and seafood hubs.",
+    "amenities": [
+      "Wifi",
+      "Heated Pool",
+      "Gym",
+      "Kitchenette",
+      "Beach Access"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=800&q=80"
+    ],
+    "rating": 3.7,
+    "coordinates": {
+      "lat": 49.2827,
+      "lng": -123.1207
+    },
+    "reviews": [
+      {
+        "reviewerName": "Alex M.",
+        "rating": 2,
+        "comment": "Disappointing. Room did not look like the photos.",
+        "date": "2026-03-22"
+      },
+      {
+        "reviewerName": "Sophia R.",
+        "rating": 3,
+        "comment": "Location is great, though decor is slightly outdated.",
+        "date": "2026-01-17"
+      },
+      {
+        "reviewerName": "Michael K.",
+        "rating": 4,
+        "comment": "Excellent value for money. Staff went above and beyond.",
+        "date": "2026-05-05"
+      },
+      {
+        "reviewerName": "Emma D.",
+        "rating": 3,
+        "comment": "Good hotel, but the room was a bit small.",
+        "date": "2026-06-17"
+      },
+      {
+        "reviewerName": "Liam J.",
+        "rating": 4,
+        "comment": "Absolutely loved this place! Service was exceptional.",
+        "date": "2026-03-21"
+      },
+      {
+        "reviewerName": "Olivia W.",
+        "rating": 5,
+        "comment": "A wonderful experience from start to finish.",
+        "date": "2026-01-10"
+      },
+      {
+        "reviewerName": "Noah B.",
+        "rating": 4,
+        "comment": "Super comfortable bed. Slept like a baby.",
+        "date": "2026-04-11"
+      },
+      {
+        "reviewerName": "Ava H.",
+        "rating": 3,
+        "comment": "Service was a bit slow during check-out.",
+        "date": "2026-02-21"
+      },
+      {
+        "reviewerName": "William T.",
+        "rating": 5,
+        "comment": "Beautiful hotel with great attention to detail.",
+        "date": "2026-02-03"
+      },
+      {
+        "reviewerName": "Isabella S.",
+        "rating": 3,
+        "comment": "Good hotel, but the room was a bit small.",
+        "date": "2026-03-22"
+      },
+      {
+        "reviewerName": "James L.",
+        "rating": 3,
+        "comment": "Decent hotel. Good location near public transport.",
+        "date": "2026-03-15"
+      },
+      {
+        "reviewerName": "Mia C.",
+        "rating": 4,
+        "comment": "Highly recommend! The food was delicious and location was perfect.",
+        "date": "2026-05-09"
+      },
+      {
+        "reviewerName": "Benjamin P.",
+        "rating": 3,
+        "comment": "Good hotel, but the room was a bit small.",
+        "date": "2026-04-07"
+      },
+      {
+        "reviewerName": "Charlotte N.",
+        "rating": 5,
+        "comment": "Beautiful hotel with great attention to detail.",
+        "date": "2026-03-14"
+      },
+      {
+        "reviewerName": "Lucas G.",
+        "rating": 4,
+        "comment": "The spa was amazing, very relaxing.",
+        "date": "2026-04-20"
+      },
+      {
+        "reviewerName": "Amelia E.",
+        "rating": 4,
+        "comment": "Highly recommend! The food was delicious and location was perfect.",
+        "date": "2026-05-13"
+      },
+      {
+        "reviewerName": "Henry F.",
+        "rating": 4,
+        "comment": "Super comfortable bed. Slept like a baby.",
+        "date": "2026-06-04"
+      },
+      {
+        "reviewerName": "Harper M.",
+        "rating": 3,
+        "comment": "Nice pool but it got crowded in the afternoon.",
+        "date": "2026-05-17"
+      },
+      {
+        "reviewerName": "Alexander V.",
+        "rating": 3,
+        "comment": "Clean room but the wifi was somewhat slow.",
+        "date": "2025-12-31"
+      },
+      {
+        "reviewerName": "Evelyn Z.",
+        "rating": 5,
+        "comment": "Stunning views and extremely clean rooms. Will come back.",
+        "date": "2026-04-19"
+      }
+    ]
+  },
+  {
+    "name": "Aurora Northern Lights Lodge",
+    "city": "Reykjavik",
+    "price": 165,
+    "description": "Specially designed glass dome cabins, offering views of the night sky and local thermal lagoons.",
+    "amenities": [
+      "Wifi",
+      "Glass Dome Roof",
+      "Thermal Bath",
+      "Restaurant",
+      "Snow Gear Rental"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?auto=format&fit=crop&w=800&q=80"
+    ],
+    "rating": 3.7,
+    "coordinates": {
+      "lat": 64.1466,
+      "lng": -21.9426
+    },
+    "reviews": [
+      {
+        "reviewerName": "Alex M.",
+        "rating": 3,
+        "comment": "Overall okay. Breakfast could have been better.",
+        "date": "2026-03-26"
+      },
+      {
+        "reviewerName": "Sophia R.",
+        "rating": 1,
+        "comment": "Overpriced for what it offers. Staff seemed indifferent.",
+        "date": "2026-01-12"
+      },
+      {
+        "reviewerName": "Michael K.",
+        "rating": 5,
+        "comment": "Rooftop views were spectacular. Great cocktails.",
+        "date": "2026-02-14"
+      },
+      {
+        "reviewerName": "Emma D.",
+        "rating": 2,
+        "comment": "The bathroom was not cleaned properly.",
+        "date": "2026-03-09"
+      },
+      {
+        "reviewerName": "Liam J.",
+        "rating": 3,
+        "comment": "Clean room but the wifi was somewhat slow.",
+        "date": "2026-06-09"
+      },
+      {
+        "reviewerName": "Olivia W.",
+        "rating": 3,
+        "comment": "Good hotel, but the room was a bit small.",
+        "date": "2026-06-17"
+      },
+      {
+        "reviewerName": "Noah B.",
+        "rating": 3,
+        "comment": "Good hotel, but the room was a bit small.",
+        "date": "2026-05-23"
+      },
+      {
+        "reviewerName": "Ava H.",
+        "rating": 4,
+        "comment": "Excellent value for money. Staff went above and beyond.",
+        "date": "2026-03-21"
+      },
+      {
+        "reviewerName": "William T.",
+        "rating": 4,
+        "comment": "Friendly reception staff and quick check-in process.",
+        "date": "2026-01-20"
+      },
+      {
+        "reviewerName": "Isabella S.",
+        "rating": 5,
+        "comment": "Highly recommend! The food was delicious and location was perfect.",
+        "date": "2026-05-23"
+      },
+      {
+        "reviewerName": "James L.",
+        "rating": 5,
+        "comment": "Super comfortable bed. Slept like a baby.",
+        "date": "2026-02-11"
+      },
+      {
+        "reviewerName": "Mia C.",
+        "rating": 5,
+        "comment": "Super comfortable bed. Slept like a baby.",
+        "date": "2026-02-12"
+      },
+      {
+        "reviewerName": "Benjamin P.",
+        "rating": 3,
+        "comment": "Nice stay. A little noisy during the day.",
+        "date": "2026-02-20"
+      },
+      {
+        "reviewerName": "Charlotte N.",
+        "rating": 5,
+        "comment": "Rooftop views were spectacular. Great cocktails.",
+        "date": "2026-01-25"
+      },
+      {
+        "reviewerName": "Lucas G.",
+        "rating": 5,
+        "comment": "Excellent value for money. Staff went above and beyond.",
+        "date": "2026-02-27"
+      },
+      {
+        "reviewerName": "Amelia E.",
+        "rating": 4,
+        "comment": "Super comfortable bed. Slept like a baby.",
+        "date": "2026-04-18"
+      },
+      {
+        "reviewerName": "Henry F.",
+        "rating": 3,
+        "comment": "Good hotel, but the room was a bit small.",
+        "date": "2026-03-03"
+      },
+      {
+        "reviewerName": "Harper M.",
+        "rating": 3,
+        "comment": "Overall okay. Breakfast could have been better.",
+        "date": "2026-01-04"
+      },
+      {
+        "reviewerName": "Alexander V.",
+        "rating": 4,
+        "comment": "The spa was amazing, very relaxing.",
+        "date": "2026-03-13"
+      },
+      {
+        "reviewerName": "Evelyn Z.",
+        "rating": 4,
+        "comment": "Friendly reception staff and quick check-in process.",
+        "date": "2026-05-01"
+      }
+    ]
+  },
+  {
+    "name": "Cherry Blossom Inn",
+    "city": "Kyoto",
+    "price": 100,
+    "description": "Peaceful guest rooms looking out over private stone gardens and centuries-old temples.",
+    "amenities": [
+      "Wifi",
+      "Tatami Rooms",
+      "Garden View",
+      "Tea Ceremony",
+      "Breakfast"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?auto=format&fit=crop&w=800&q=80"
+    ],
+    "rating": 3.4,
+    "coordinates": {
+      "lat": 35.0116,
+      "lng": 135.7681
+    },
+    "reviews": [
+      {
+        "reviewerName": "Alex M.",
+        "rating": 2,
+        "comment": "Noise from the street made it hard to sleep.",
+        "date": "2026-05-09"
+      },
+      {
+        "reviewerName": "Sophia R.",
+        "rating": 5,
+        "comment": "Rooftop views were spectacular. Great cocktails.",
+        "date": "2026-06-24"
+      },
+      {
+        "reviewerName": "Michael K.",
+        "rating": 5,
+        "comment": "Absolutely loved this place! Service was exceptional.",
+        "date": "2026-01-31"
+      },
+      {
+        "reviewerName": "Emma D.",
+        "rating": 3,
+        "comment": "Overall okay. Breakfast could have been better.",
+        "date": "2026-06-16"
+      },
+      {
+        "reviewerName": "Liam J.",
+        "rating": 5,
+        "comment": "Beautiful hotel with great attention to detail.",
+        "date": "2026-02-12"
+      },
+      {
+        "reviewerName": "Olivia W.",
+        "rating": 5,
+        "comment": "Stunning views and extremely clean rooms. Will come back.",
+        "date": "2026-05-23"
+      },
+      {
+        "reviewerName": "Noah B.",
+        "rating": 1,
+        "comment": "The bathroom was not cleaned properly.",
+        "date": "2026-01-15"
+      },
+      {
+        "reviewerName": "Ava H.",
+        "rating": 4,
+        "comment": "Rooftop views were spectacular. Great cocktails.",
+        "date": "2026-03-01"
+      },
+      {
+        "reviewerName": "William T.",
+        "rating": 2,
+        "comment": "Overpriced for what it offers. Staff seemed indifferent.",
+        "date": "2026-03-06"
+      },
+      {
+        "reviewerName": "Isabella S.",
+        "rating": 2,
+        "comment": "Very slow check-in. Had to wait for 45 minutes.",
+        "date": "2026-03-10"
+      },
+      {
+        "reviewerName": "James L.",
+        "rating": 4,
+        "comment": "Stunning views and extremely clean rooms. Will come back.",
+        "date": "2026-04-22"
+      },
+      {
+        "reviewerName": "Mia C.",
+        "rating": 3,
+        "comment": "Good hotel, but the room was a bit small.",
+        "date": "2026-06-25"
+      },
+      {
+        "reviewerName": "Benjamin P.",
+        "rating": 4,
+        "comment": "Highly recommend! The food was delicious and location was perfect.",
+        "date": "2026-02-25"
+      },
+      {
+        "reviewerName": "Charlotte N.",
+        "rating": 4,
+        "comment": "Friendly reception staff and quick check-in process.",
+        "date": "2026-04-16"
+      },
+      {
+        "reviewerName": "Lucas G.",
+        "rating": 3,
+        "comment": "Service was a bit slow during check-out.",
+        "date": "2026-02-03"
+      },
+      {
+        "reviewerName": "Amelia E.",
+        "rating": 3,
+        "comment": "Clean room but the wifi was somewhat slow.",
+        "date": "2026-04-20"
+      },
+      {
+        "reviewerName": "Henry F.",
+        "rating": 3,
+        "comment": "Nice pool but it got crowded in the afternoon.",
+        "date": "2026-04-05"
+      },
+      {
+        "reviewerName": "Harper M.",
+        "rating": 3,
+        "comment": "Nice pool but it got crowded in the afternoon.",
+        "date": "2026-01-01"
+      },
+      {
+        "reviewerName": "Alexander V.",
+        "rating": 3,
+        "comment": "Decent hotel. Good location near public transport.",
+        "date": "2026-06-12"
+      },
+      {
+        "reviewerName": "Evelyn Z.",
+        "rating": 4,
+        "comment": "The spa was amazing, very relaxing.",
+        "date": "2026-03-17"
+      }
+    ]
+  },
+  {
+    "name": "Nile Sphinx View Lodge",
+    "city": "Cairo",
+    "price": 366,
+    "description": "Breathtaking views of historic landmarks, traditional gardens, and high-end dining decks.",
+    "amenities": [
+      "Wifi",
+      "Nile View",
+      "Outdoor Pool",
+      "24/7 Concierge",
+      "Cocktail Lounge"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=800&q=80"
+    ],
+    "rating": 3.4,
+    "coordinates": {
+      "lat": 30.0444,
+      "lng": 31.2357
+    },
+    "reviews": [
+      {
+        "reviewerName": "Alex M.",
+        "rating": 1,
+        "comment": "The bathroom was not cleaned properly.",
+        "date": "2026-01-04"
+      },
+      {
+        "reviewerName": "Sophia R.",
+        "rating": 3,
+        "comment": "Nice pool but it got crowded in the afternoon.",
+        "date": "2026-06-03"
+      },
+      {
+        "reviewerName": "Michael K.",
+        "rating": 5,
+        "comment": "The spa was amazing, very relaxing.",
+        "date": "2026-03-03"
+      },
+      {
+        "reviewerName": "Emma D.",
+        "rating": 5,
+        "comment": "Friendly reception staff and quick check-in process.",
+        "date": "2026-03-06"
+      },
+      {
+        "reviewerName": "Liam J.",
+        "rating": 1,
+        "comment": "The bathroom was not cleaned properly.",
+        "date": "2026-04-27"
+      },
+      {
+        "reviewerName": "Olivia W.",
+        "rating": 3,
+        "comment": "Service was a bit slow during check-out.",
+        "date": "2026-02-04"
+      },
+      {
+        "reviewerName": "Noah B.",
+        "rating": 2,
+        "comment": "Very slow check-in. Had to wait for 45 minutes.",
+        "date": "2026-02-20"
+      },
+      {
+        "reviewerName": "Ava H.",
+        "rating": 4,
+        "comment": "Highly recommend! The food was delicious and location was perfect.",
+        "date": "2026-04-06"
+      },
+      {
+        "reviewerName": "William T.",
+        "rating": 4,
+        "comment": "Stunning views and extremely clean rooms. Will come back.",
+        "date": "2026-01-16"
+      },
+      {
+        "reviewerName": "Isabella S.",
+        "rating": 5,
+        "comment": "Absolutely loved this place! Service was exceptional.",
+        "date": "2026-06-27"
+      },
+      {
+        "reviewerName": "James L.",
+        "rating": 5,
+        "comment": "Highly recommend! The food was delicious and location was perfect.",
+        "date": "2026-02-21"
+      },
+      {
+        "reviewerName": "Mia C.",
+        "rating": 3,
+        "comment": "Decent hotel. Good location near public transport.",
+        "date": "2026-06-23"
+      },
+      {
+        "reviewerName": "Benjamin P.",
+        "rating": 5,
+        "comment": "Highly recommend! The food was delicious and location was perfect.",
+        "date": "2026-03-22"
+      },
+      {
+        "reviewerName": "Charlotte N.",
+        "rating": 4,
+        "comment": "Super comfortable bed. Slept like a baby.",
+        "date": "2026-01-04"
+      },
+      {
+        "reviewerName": "Lucas G.",
+        "rating": 3,
+        "comment": "Good hotel, but the room was a bit small.",
+        "date": "2026-03-16"
+      },
+      {
+        "reviewerName": "Amelia E.",
+        "rating": 3,
+        "comment": "Fine for a short stay. Standard service.",
+        "date": "2026-01-14"
+      },
+      {
+        "reviewerName": "Henry F.",
+        "rating": 5,
+        "comment": "Rooftop views were spectacular. Great cocktails.",
+        "date": "2026-01-21"
+      },
+      {
+        "reviewerName": "Harper M.",
+        "rating": 2,
+        "comment": "The air conditioning was broken and took hours to fix.",
+        "date": "2026-01-19"
+      },
+      {
+        "reviewerName": "Alexander V.",
+        "rating": 1,
+        "comment": "Disappointing. Room did not look like the photos.",
+        "date": "2026-02-04"
+      },
+      {
+        "reviewerName": "Evelyn Z.",
+        "rating": 3,
+        "comment": "Overall okay. Breakfast could have been better.",
+        "date": "2026-04-23"
+      }
+    ]
+  },
+  {
+    "name": "Copacabana Sands Hotel",
+    "city": "Rio de Janeiro",
+    "price": 276,
+    "description": "A vibrant beachfront stay steps from the waves, with a rooftop pool and live local music lounge.",
+    "amenities": [
+      "Wifi",
+      "Beach Access",
+      "Rooftop Pool",
+      "Bar",
+      "Live Music"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80"
+    ],
+    "rating": 4,
+    "coordinates": {
+      "lat": -22.9068,
+      "lng": -43.1729
+    },
+    "reviews": [
+      {
+        "reviewerName": "Alex M.",
+        "rating": 5,
+        "comment": "Super comfortable bed. Slept like a baby.",
+        "date": "2026-03-05"
+      },
+      {
+        "reviewerName": "Sophia R.",
+        "rating": 5,
+        "comment": "Super comfortable bed. Slept like a baby.",
+        "date": "2026-01-05"
+      },
+      {
+        "reviewerName": "Michael K.",
+        "rating": 5,
+        "comment": "The spa was amazing, very relaxing.",
+        "date": "2026-03-06"
+      },
+      {
+        "reviewerName": "Emma D.",
+        "rating": 5,
+        "comment": "Super comfortable bed. Slept like a baby.",
+        "date": "2026-06-13"
+      },
+      {
+        "reviewerName": "Liam J.",
+        "rating": 3,
+        "comment": "Nice stay. A little noisy during the day.",
+        "date": "2026-02-06"
+      },
+      {
+        "reviewerName": "Olivia W.",
+        "rating": 5,
+        "comment": "Stunning views and extremely clean rooms. Will come back.",
+        "date": "2026-04-16"
+      },
+      {
+        "reviewerName": "Noah B.",
+        "rating": 5,
+        "comment": "Absolutely loved this place! Service was exceptional.",
+        "date": "2026-04-15"
+      },
+      {
+        "reviewerName": "Ava H.",
+        "rating": 3,
+        "comment": "Fine for a short stay. Standard service.",
+        "date": "2026-03-21"
+      },
+      {
+        "reviewerName": "William T.",
+        "rating": 3,
+        "comment": "Location is great, though decor is slightly outdated.",
+        "date": "2026-03-19"
+      },
+      {
+        "reviewerName": "Isabella S.",
+        "rating": 4,
+        "comment": "The spa was amazing, very relaxing.",
+        "date": "2026-05-15"
+      },
+      {
+        "reviewerName": "James L.",
+        "rating": 5,
+        "comment": "Rooftop views were spectacular. Great cocktails.",
+        "date": "2026-05-01"
+      },
+      {
+        "reviewerName": "Mia C.",
+        "rating": 4,
+        "comment": "Super comfortable bed. Slept like a baby.",
+        "date": "2026-03-16"
+      },
+      {
+        "reviewerName": "Benjamin P.",
+        "rating": 2,
+        "comment": "Not satisfied with the service. Won't visit again.",
+        "date": "2026-05-24"
+      },
+      {
+        "reviewerName": "Charlotte N.",
+        "rating": 4,
+        "comment": "Excellent value for money. Staff went above and beyond.",
+        "date": "2026-04-06"
+      },
+      {
+        "reviewerName": "Lucas G.",
+        "rating": 5,
+        "comment": "Friendly reception staff and quick check-in process.",
+        "date": "2026-02-03"
+      },
+      {
+        "reviewerName": "Amelia E.",
+        "rating": 5,
+        "comment": "A wonderful experience from start to finish.",
+        "date": "2026-01-24"
+      },
+      {
+        "reviewerName": "Henry F.",
+        "rating": 3,
+        "comment": "Location is great, though decor is slightly outdated.",
+        "date": "2026-02-20"
+      },
+      {
+        "reviewerName": "Harper M.",
+        "rating": 4,
+        "comment": "Absolutely loved this place! Service was exceptional.",
+        "date": "2026-04-12"
+      },
+      {
+        "reviewerName": "Alexander V.",
+        "rating": 5,
+        "comment": "Highly recommend! The food was delicious and location was perfect.",
+        "date": "2026-05-04"
+      },
+      {
+        "reviewerName": "Evelyn Z.",
+        "rating": 1,
+        "comment": "The air conditioning was broken and took hours to fix.",
+        "date": "2026-04-26"
+      }
+    ]
+  }
+]
