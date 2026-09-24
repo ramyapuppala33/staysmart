@@ -28,11 +28,11 @@ jobs:
           node-version: 24
 
       - name: Install dependencies
-        working-directory: frontend
+        working-directory: staysmart-main/frontend
         run: npm ci
 
       - name: Build frontend
-        working-directory: frontend
+        working-directory: staysmart-main/frontend
         run: npm run build
 
       - name: Setup Pages
@@ -41,7 +41,7 @@ jobs:
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: frontend/dist
+          path: staysmart-main/frontend/dist
 
   deploy:
     environment:
